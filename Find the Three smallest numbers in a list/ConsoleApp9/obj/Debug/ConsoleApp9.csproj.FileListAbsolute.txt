@@ -4,3 +4,9 @@ c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\bin
 c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojResolveAssemblyReference.cache
 c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
 c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Find the Three smallest numbers in a list\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Find the Three smallest numbers in a list\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Find the Three smallest numbers in a list\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Find the Three smallest numbers in a list\ConsoleApp9\obj\Debug\ConsoleApp9.csprojResolveAssemblyReference.cache
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Find the Three smallest numbers in a list\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Find the Three smallest numbers in a list\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
