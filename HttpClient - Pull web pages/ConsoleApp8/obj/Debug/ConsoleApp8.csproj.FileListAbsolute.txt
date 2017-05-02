@@ -1,0 +1,12 @@
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\HttpClient - Pull web pages\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\honda\Documents\Visual Studio 2017\Projects\HttpClient - Pull web pages\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\honda\Documents\Visual Studio 2017\Projects\HttpClient - Pull web pages\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\HttpClient - Pull web pages\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+C:\Users\honda\Documents\Visual Studio 2017\Projects\HttpClient - Pull web pages\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\honda\Documents\Visual Studio 2017\Projects\HttpClient - Pull web pages\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
