@@ -1,0 +1,12 @@
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\honda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Write All and Read All text\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Write All and Read All text\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Write All and Read All text\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Write All and Read All text\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Write All and Read All text\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\honda\Documents\Visual Studio 2017\Projects\Write All and Read All text\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
