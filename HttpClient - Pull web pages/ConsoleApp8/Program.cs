@@ -13,7 +13,7 @@ namespace ConsoleApp8
             //Call the defined method to do the function
             loadData();
             Console.ReadLine();
-            Console.ReadKey();
+            
         }
 
         static async void loadData()
